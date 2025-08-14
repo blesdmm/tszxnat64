@@ -1,0 +1,6 @@
+name = "tszxnat64-worker"
+type = "javascript"
+account_id = "31c4315ae7a53240bd71735350c2bfaf"  # 在Cloudflare Workers控制台找
+workers_dev = true
+route = ""
+zone_id = ""
